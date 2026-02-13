@@ -1,0 +1,1 @@
+print("Cash Hai to Aish Hai")
