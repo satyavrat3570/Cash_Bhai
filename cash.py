@@ -1,1 +1,1 @@
-print("Vaishnav Jan to tene kahiye je, peed parai jaane re!")
+print("satyavrath op in the chat")
